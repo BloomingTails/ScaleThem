@@ -52,3 +52,5 @@ You will find two prefabs in your Unity project located in `Assets/BloomingPrefa
 There are some settings that you can adjust inside each Udon Graphs that are not exposed in the public fields of the Udon Behaviour, such as the delays of the **SendCustomEvents** and such.
 
 I've added a **OnPlayerJoined** that fires a **SendCustomEvent** with a 3 seconds delay to apply the scale of a local player whenever one joins the instance, leaving enough time for the player to load their avatar. It's just there as a fallback as I did use a **OnAvatarChanged** on top of that.
+
+This prefab was made using **Unity 2022.3.6f1**, it shouldn't have any issue with **Unity 2019.4.31f1** version but this prefab does not officially supports it!
