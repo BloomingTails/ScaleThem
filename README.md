@@ -13,6 +13,10 @@ Feel free to edit the UI as it is pretty simple but please keep me credited, tha
 
 # How to use
 
+Grab the Unity package from the releases tab on the right. Simply import it in your project by going in the `Assets>Import Package>Custom Package...` tab in the toolbar of the Unity Editor (Top of the screen).
+
+Then, follow the instructions ahead.
+
 You will find two prefabs in your Unity project located in `Assets/BloomingPrefabs/ScaleThem!/Prefabs`:
 
 ## ScaleThemMaster
