@@ -39,7 +39,7 @@ You will find two prefabs in your Unity project located in `Assets/BloomingPrefa
 
     -**SliderScale**
 
-3. Go to the **AvatarScaleEnabler** GameObject and set the **Granted** and **Refused** strings. This will appear in the bottom left corner of the prefab to let the player know if they are or not the granted player (Can be left empty for no text).
+3. Go to the **AvatarScaleEnabler** GameObject and set the **Granted** and **Refused** strings to any phrase of your liking. This will appear in the bottom left corner of the prefab to let the player know if they are or not the granted player (Can be left empty for no text).
 
 4. Still on the **AvatarScaleEnabler** GameObject, decide whether or not you will allow all players (including the granted player) from resetting their avatar scaling by enabling/disabling the **allowManualScaling** bool.
 
